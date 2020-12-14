@@ -22,7 +22,7 @@ cookiesList = [cookies1, ]   # 多账号准备
 
 # 通知服务
 BARK = ''                   # bark服务,自行搜索; secrets可填;形如jfjqxDx3xxxxxxxxSaK的字符串
-SCKEY = ''                  # Server酱的SCKEY; secrets可填
+SCKEY = 'SCU12178T48982999fe8b23fcc378bb7c99b50fa059c3764fa833f'                  # Server酱的SCKEY; secrets可填
 TG_BOT_TOKEN = ''           # telegram bot token 自行申请
 TG_USER_ID = ''             # telegram 用户ID
 
